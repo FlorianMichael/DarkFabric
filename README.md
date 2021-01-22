@@ -20,7 +20,7 @@
         <tr>
             <td>Lombok</td>
             <td>Team Lombok</td>
-            <td>own license?</td>
+            <td>mit</td>
             <td>https://projectlombok.org</td>
         </tr>
         <tr>
