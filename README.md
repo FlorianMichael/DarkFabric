@@ -20,31 +20,31 @@
         <tr>
             <td>Lombok</td>
             <td>Team Lombok</td>
-            <td>mit</td>
+            <td>MIT License</td>
             <td>https://projectlombok.org</td>
         </tr>
         <tr>
-            <td>Jetbrains</td>
-            <td>Jetbrains</td>
-            <td>apache-2.0</td>
+            <td>JetBrains-Annotations</td>
+            <td>JetBrains</td>
+            <td>Apache-2.0 License</td>
             <td>https://mvnrepository.com/artifact/org.jetbrains/annotations</td>
         </tr>
         <tr>
             <td>Reflections</td>
             <td>ronmamo</td>
-            <td>DWTFYWT</td>
+            <td>Do what the F*ck you want to public</td>
             <td>https://github.com/ronmamo/reflections</td>
         </tr>
         <tr>
             <td>TypeTools</td>
             <td>jhalterman</td>
-            <td>apache-2.0</td>
+            <td>Apache-2.0 License</td>
             <td>https://github.com/jhalterman/typetools</td>
         </tr>
         <tr>
             <td>Alpine</td>
             <td>ZeroMemes</td>
-            <td>apache-2.0</td>
+            <td>Apache-2.0 License</td>
             <td>https://github.com/ZeroMemes/Alpine</td>
         </tr>
     </table>
