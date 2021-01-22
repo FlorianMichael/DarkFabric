@@ -26,7 +26,7 @@
         <tr>
             <td>Jetbrains</td>
             <td>Jetbrains</td>
-            <td>none</td>
+            <td>apache-2.0</td>
             <td>https://mvnrepository.com/artifact/org.jetbrains/annotations</td>
         </tr>
         <tr>
